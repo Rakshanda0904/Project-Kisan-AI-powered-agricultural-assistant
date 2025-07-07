@@ -2,6 +2,8 @@
 
 Project Kisan is an AI-powered virtual assistant designed to empower farmers with real-time insights, guidance, and decision-making support. It integrates artificial intelligence, weather data, and agricultural knowledge to enhance crop productivity and ensure sustainable farming practices.
 
+Demo link-https://project-kisan-ai-powered-agricultur.vercel.app/
+
 ---
 
 ## 🚀 Features
