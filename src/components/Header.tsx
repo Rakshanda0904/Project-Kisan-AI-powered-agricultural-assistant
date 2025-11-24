@@ -18,7 +18,7 @@ export const Header: React.FC<HeaderProps> = ({ isListening, onToggleListening }
           <Wheat className="w-8 h-8" />
           <div>
             <h1 className="text-xl font-bold">Project Kisan</h1>
-            <p className="text-green-100 text-sm">ನಿಮ್ಮ ಕೃಷಿ ಸಹಾಯಕ</p>
+            <p className="text-green-100 text-sm">आपका कृषि सहायक</p>
           </div>
         </div>
         
